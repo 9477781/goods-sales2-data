@@ -72,7 +72,7 @@
       "status": {
         "缶バッジ\nSet A": "販売中",
         "缶バッジ\nSet B": "販売中",
-        "パーツ付きアクリルキーホルダー\nSet A": "販売中",
+        "パーツ付きアクリルキーホルダー\nSet A": "SOLD OUT",
         "パーツ付きアクリルキーホルダー\nSet B": "販売中",
         "アクリルぷちスタンド\nSet A": "販売中",
         "アクリルぷちスタンド\nSet B": "販売中",
@@ -110,6 +110,6 @@
       }
     }
   ],
-  "lastUpdated": "2026/02/09 10:36",
+  "lastUpdated": "2026/02/10 02:57",
   "backUrl": "https://www.pub-hub.com/index.php/PROMISEOFWIZARD"
 }
